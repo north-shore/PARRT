@@ -1,0 +1,1848 @@
+Uri: https://africangreyparrotfarm.com/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/IMG-20201005-WA0005.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\IMG-20201005-WA0005.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/10/IMG-20201005-WA0008.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\10\IMG-20201005-WA0008.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/IMG-20210429-WA0015.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\IMG-20210429-WA0015.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/x-font-woff
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/36a65a86f16d7044b1022befc820d5af.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\36a65a86f16d7044b1022befc820d5af.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=821e0c40
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\smartslider.min.css
+Content Type: text/css
+
+Uri: http://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/comments/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/semalt-seo/public/css/semalt-seo-public.css?ver=1.0.4
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\semalt-seo\public\css\semalt-seo-public.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Quicksand:400%2C600%2C700&ver=5.8
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\css.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/style.css?ver=5.8
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\style.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/css/theme-responsive.css?ver=5.8
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\css\theme-responsive.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/css/nivo-slider.css?ver=5.8
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\css\nivo-slider.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/css/font-awesome.css?ver=5.8
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.3
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.2.3
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.3
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/elementor/css/post-509.css?ver=1620225953
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\elementor\css\post-509.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.6.5
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.6.5
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/elementor/css/global.css?ver=1620225953
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/elementor/css/post-9.css?ver=1624954729
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Quicksand:100%2C100%2C200%2C200%2C300%2C300%2C400%2C400%2C500%2C500%2C600%2C600%2C700%2C700%2C800%2C800%2C900%2C900|Quicksand+Slab:100%2C100%2C200%2C200%2C300%2C300%2C400%2C400%2C500%2C500%2C600%2C600%2C700%2C700%2C800%2C800%2C900%2C900&display=auto&ver=5.8
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\css-1.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.1
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-json/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\pages\9.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/cropped-Untitled-2-1-32x32.png
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\cropped-Untitled-2-1-32x32.png
+Content Type: image/png
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/cropped-Untitled-2-1-192x192.png
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\cropped-Untitled-2-1-192x192.png
+Content Type: image/png
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/cropped-Untitled-2-1-180x180.png
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\cropped-Untitled-2-1-180x180.png
+Content Type: image/png
+
+Uri: https://africangreyparrotfarm.com/available-parrots/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\available-parrots\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/breed-info/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\breed-info\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/testimonials/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\testimonials\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/shipping/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\shipping\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/about-us/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/contact-us/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/blog/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/css/choices.min.css?ver=9.0.1
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\css\choices.min.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/css/jquery.timepicker.css?ver=1.11.5
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\css\jquery.timepicker.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/css/flatpickr.min.css?ver=4.6.3
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\css\flatpickr.min.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.min.css?ver=1.6.8.1
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\css\wpforms-full.min.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-177069500-1
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/semalt-seo/public/js/semalt-seo-public.js?ver=1.0.4
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\semalt-seo\public\js\semalt-seo-public.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/js/jquery.nivo.slider.js?ver=5.8
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\js\jquery.nivo.slider.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/js/custom.js?ver=5.8
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\js\custom.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.6.5
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=821e0c40
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\n2.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=821e0c40
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\smartslider-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/smartslider-simple-type-frontend.min.js?ver=821e0c40
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Slider\SliderType\Simple\Assets\dist\smartslider-simple-type-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/nextend-webfontloader.min.js?ver=821e0c40
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\nextend-webfontloader.min.js
+Content Type: application/javascript
+
+Uri: https://cdn--01.jetpic.net/brpkwwtqryryy/shrink/cropped-african-grey-parrot-farm.webp
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\brpkwwtqryryy\shrink\cropped-african-grey-parrot-farm.webp
+Content Type: image/webp
+
+Uri: https://cdn--01.jetpic.net/brpkwwtqryryy/shrink/jenny1.webp
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\brpkwwtqryryy\shrink\jenny1.webp
+Content Type: image/webp
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/Rocky11.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\Rocky11.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn--01.jetpic.net/brpkwwtqryryy/shrink/bill11.webp
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\brpkwwtqryryy\shrink\bill11.webp
+Content Type: image/webp
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/IMG-20210429-WA0005.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\IMG-20210429-WA0005.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/10/IMG-20201005-WA0001.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\10\IMG-20201005-WA0001.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-includes/js/wp-embed.min.js?ver=5.8
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.2.3
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.3
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.2.3
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.2.3
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.2.3
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-includes/js/underscore.min.js?ver=1.8.3
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-includes/js/wp-util.min.js?ver=5.8
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.8.1
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/js/choices.min.js?ver=9.0.1
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\js\choices.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/js/flatpickr.min.js?ver=4.6.3
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\js\flatpickr.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/js/jquery.timepicker.min.js?ver=1.11.5
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\js\jquery.timepicker.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/js/jquery.inputmask.min.js?ver=5.0.6
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\js\jquery.inputmask.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\js\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/js/jquery.payment.min.js?ver=1.6.8.1
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\js\jquery.payment.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/js/wpforms.js?ver=1.6.8.1
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\js\wpforms.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/cropped-african-grey-parrot-farm-1x1.png
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\cropped-african-grey-parrot-farm-1x1.png
+Content Type: image/png
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/IMG-20210429-WA0005-300x300.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\IMG-20210429-WA0005-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/IMG-20210429-WA0005-150x150.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\IMG-20210429-WA0005-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/IMG-20210429-WA0005-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\IMG-20210429-WA0005-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/10/IMG-20201005-WA0001-300x225.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\10\IMG-20201005-WA0001-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/10/IMG-20201005-WA0001-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\10\IMG-20201005-WA0001-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\index-1.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/images/mobile_nav_right.png
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\images\mobile_nav_right.png
+Content Type: image/png
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/images/slide-nav.png
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\images\slide-nav.png
+Content Type: image/png
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/css/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\css\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/css/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\css\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/css/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\css\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/css/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\css\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/css/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\css\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://africangreyparrotfarm.com/wp-content/themes/petcare-lite/css/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\themes\petcare-lite\css\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.11.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.11.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff2
+Content Type: font/woff2
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.11.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff
+Content Type: application/x-font-woff
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.11.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.11.0
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/x-font-woff
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/elementor/css/post-11.css?ver=1624610598
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\elementor\css\post-11.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\pages\11.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Favailable-parrots%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Favailable-parrots%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/10/guarantee.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\10\guarantee.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/lewisclark.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\lewisclark.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/belle.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\belle.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/wally1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\wally1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/kiwi1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\kiwi1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/sarah1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\sarah1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/spike-rosie1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\spike-rosie1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/tiki1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\tiki1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/Paco31-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\Paco31-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/Maxwell-and-popson1-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\Maxwell-and-popson1-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/05/treasure.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\05\treasure.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/Abu1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\Abu1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/charly1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\charly1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/104980753_760x5701-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\104980753_760x5701-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117132454_760x5701-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117132454_760x5701-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/b2135621911-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\b2135621911-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117258207_760x5701-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117258207_760x5701-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/b2135621811-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\b2135621811-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117258217_760x5701-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117258217_760x5701-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/1-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\1-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/2-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\2-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/3-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\3-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/4-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\4-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/02/IMG-20190203-WA0016_1549269900997-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\02\IMG-20190203-WA0016_1549269900997-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/02/IMG-20190203-WA0013_1549269900868-1024x819.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\02\IMG-20190203-WA0013_1549269900868-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/10/guarantee-300x134.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\10\guarantee-300x134.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/10/guarantee-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\10\guarantee-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/belle-250x300.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\belle-250x300.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/belle-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\belle-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/wally1-250x300.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\wally1-250x300.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/wally1-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\wally1-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/kiwi1-250x300.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\kiwi1-250x300.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/kiwi1-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\kiwi1-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/sarah1-250x300.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\sarah1-250x300.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/sarah1-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\sarah1-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/spike-rosie1-250x300.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\spike-rosie1-250x300.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/spike-rosie1-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\spike-rosie1-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/tiki1-250x300.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\tiki1-250x300.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/tiki1-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\tiki1-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/Paco31.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\Paco31.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/Paco31-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\Paco31-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/Paco31-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\Paco31-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/Paco31-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\Paco31-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/Maxwell-and-popson1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\Maxwell-and-popson1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/Maxwell-and-popson1-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\Maxwell-and-popson1-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/Maxwell-and-popson1-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\Maxwell-and-popson1-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/Maxwell-and-popson1-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\Maxwell-and-popson1-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/05/treasure-300x225.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\05\treasure-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/05/treasure-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\05\treasure-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/Abu1-250x300.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\Abu1-250x300.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/Abu1-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\Abu1-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/charly1-250x300.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\charly1-250x300.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/charly1-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\charly1-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/Rocky11-250x300.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\Rocky11-250x300.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2021/05/Rocky11-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2021\05\Rocky11-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/104980753_760x5701.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\104980753_760x5701.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/104980753_760x5701-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\104980753_760x5701-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/104980753_760x5701-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\104980753_760x5701-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/104980753_760x5701-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\104980753_760x5701-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117132454_760x5701.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117132454_760x5701.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117132454_760x5701-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117132454_760x5701-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117132454_760x5701-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117132454_760x5701-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117132454_760x5701-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117132454_760x5701-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/b2135621911.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\b2135621911.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/b2135621911-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\b2135621911-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/b2135621911-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\b2135621911-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/b2135621911-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\b2135621911-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117258207_760x5701.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117258207_760x5701.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117258207_760x5701-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117258207_760x5701-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117258207_760x5701-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117258207_760x5701-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117258207_760x5701-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117258207_760x5701-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/b2135621811.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\b2135621811.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/b2135621811-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\b2135621811-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/b2135621811-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\b2135621811-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/b2135621811-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\b2135621811-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117258217_760x5701.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117258217_760x5701.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117258217_760x5701-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117258217_760x5701-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117258217_760x5701-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117258217_760x5701-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/117258217_760x5701-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\117258217_760x5701-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/1-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\1-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/1-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\1-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/1-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\1-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/2.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\2.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/2-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\2-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/2-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\2-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/2-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\2-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/3.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\3.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/3-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\3-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/3-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\3-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/3-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\3-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/4.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\4.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/4-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\4-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/4-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\4-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/4-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\4-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/02/IMG-20190203-WA0016_1549269900997.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\02\IMG-20190203-WA0016_1549269900997.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/02/IMG-20190203-WA0016_1549269900997-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\02\IMG-20190203-WA0016_1549269900997-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/02/IMG-20190203-WA0016_1549269900997-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\02\IMG-20190203-WA0016_1549269900997-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/02/IMG-20190203-WA0016_1549269900997-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\02\IMG-20190203-WA0016_1549269900997-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/02/IMG-20190203-WA0013_1549269900868.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\02\IMG-20190203-WA0013_1549269900868.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/02/IMG-20190203-WA0013_1549269900868-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\02\IMG-20190203-WA0013_1549269900868-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/02/IMG-20190203-WA0013_1549269900868-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\02\IMG-20190203-WA0013_1549269900868-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/02/IMG-20190203-WA0013_1549269900868-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\02\IMG-20190203-WA0013_1549269900868-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/elementor/css/post-13.css?ver=1620290096
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\elementor\css\post-13.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\pages\13.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fbreed-info%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fbreed-info%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/8678337492_d0eab5fafc_b-683x1024.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\8678337492_d0eab5fafc_b-683x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/8678337492_d0eab5fafc_b.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\8678337492_d0eab5fafc_b.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/8678337492_d0eab5fafc_b-200x300.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\8678337492_d0eab5fafc_b-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/8678337492_d0eab5fafc_b-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\8678337492_d0eab5fafc_b-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\admin\images\templately\logo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/essential-addons-elementor/96481cb86.min.css?ver=1628669755
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\essential-addons-elementor\96481cb86.min.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/elementor/css/post-15.css?ver=1620293178
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\elementor\css\post-15.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/pages/15
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\pages\15.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Ftestimonials%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Ftestimonials%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/essential-addons-elementor/96481cb86.min.js?ver=1628669755
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\essential-addons-elementor\96481cb86.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/elementor/css/post-117.css?ver=1620299537
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\elementor\css\post-117.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/pages/117
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\pages\117.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fshipping%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fshipping%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/elementor/css/post-17.css?ver=1620289594
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\elementor\css\post-17.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/pages/17
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\pages\17.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/elementor/css/post-19.css?ver=1620290653
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\elementor\css\post-19.css
+Content Type: text/css
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/pages/19
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\pages\19.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fcontact-us%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fcontact-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/blog/page/2/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\blog\page\2\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/best-strategy-to-use-for-baby-african-grey-parrots-for-sale/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\best-strategy-to-use-for-baby-african-grey-parrots-for-sale\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/category/blog/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\category\blog\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/not-known-facts-about-african-grey-parrot-for-adoption/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\not-known-facts-about-african-grey-parrot-for-adoption\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/the-basic-principles-of-african-parrot/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\the-basic-principles-of-african-parrot\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/grey-parrot-egg-an-overview/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\grey-parrot-egg-an-overview\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/congo-african-grey-parrot-secrets/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\congo-african-grey-parrot-secrets\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/congo-grey-parrots/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\congo-grey-parrots\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/what-is-the-african-grey/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\what-is-the-african-grey\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/5-essential-elements-for-grey-parrot/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\5-essential-elements-for-grey-parrot\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/detailed-notes-on-grey-parrot-eggs/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\detailed-notes-on-grey-parrot-eggs\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/african-grey-parrots-an-overview/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\african-grey-parrots-an-overview\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/2020/06/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\2020\06\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/2020/05/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\2020\05\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/2020/03/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\2020\03\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/2020/02/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\2020\02\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/2020/01/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\2020\01\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/06/baby-african-grey-parrot.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\06\baby-african-grey-parrot.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/08/WhatsApp-Image-2019-08-06-at-6.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\08\WhatsApp-Image-2019-08-06-at-6.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/06/grey-parrot-eggs.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\06\grey-parrot-eggs.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/Jo001.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\Jo001.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/01/lewisclark.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\01\lewisclark.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/05/eggs.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\05\eggs.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/01/Bill91.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\01\Bill91.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/06/baby-african-grey-parrot-300x200.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\06\baby-african-grey-parrot-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/06/baby-african-grey-parrot-768x512.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\06\baby-african-grey-parrot-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/06/baby-african-grey-parrot-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\06\baby-african-grey-parrot-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/08/WhatsApp-Image-2019-08-06-at-6-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\08\WhatsApp-Image-2019-08-06-at-6-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/08/WhatsApp-Image-2019-08-06-at-6-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\08\WhatsApp-Image-2019-08-06-at-6-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/08/WhatsApp-Image-2019-08-06-at-6-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\08\WhatsApp-Image-2019-08-06-at-6-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/06/grey-parrot-eggs-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\06\grey-parrot-eggs-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/Jo001-300x200.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\Jo001-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2019/01/Jo001-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2019\01\Jo001-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/01/lewisclark-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\01\lewisclark-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/01/lewisclark-768x614.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\01\lewisclark-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/01/lewisclark-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\01\lewisclark-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/05/eggs-300x225.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\05\eggs-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/05/eggs-768x576.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\05\eggs-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/05/eggs-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\05\eggs-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/01/Bill91-300x240.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\01\Bill91-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/01/Bill91-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\01\Bill91-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/images/cross-inverse.svg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\images\cross-inverse.svg
+Content Type: image/svg+xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/images/cross.svg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\images\cross.svg
+Content Type: image/svg+xml
+
+Uri: https://africangreyparrotfarm.com/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\plugins\wpforms-lite\assets\images\times-solid-white.svg
+Content Type: image/svg+xml
+
+Uri: https://africangreyparrotfarm.com/examine-this-report-on-african-grey-parrots-for-sale/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\examine-this-report-on-african-grey-parrots-for-sale\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/rumored-buzz-on-male-and-female-african-grey-parrots/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\rumored-buzz-on-male-and-female-african-grey-parrots\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/the-fact-about-baby-african-grey-parrot-that-no-one-is-suggesting/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\the-fact-about-baby-african-grey-parrot-that-no-one-is-suggesting\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/congo-grey-parrot-no-further-a-mystery/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\congo-grey-parrot-no-further-a-mystery\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/03/African-grey-parrots.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\03\African-grey-parrots.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/02/AfricanGrey.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\02\AfricanGrey.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/02/The-Fact-about-baby-African-grey-parrot-that-no-one-is-suggesting.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\02\The-Fact-about-baby-African-grey-parrot-that-no-one-is-suggesting.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/01/Congo-Grey-Parrot-No-Further-a-Mystery.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\01\Congo-Grey-Parrot-No-Further-a-Mystery.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/03/African-grey-parrots-300x169.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\03\African-grey-parrots-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/03/African-grey-parrots-768x432.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\03\African-grey-parrots-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/03/African-grey-parrots-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\03\African-grey-parrots-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/02/AfricanGrey-300x169.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\02\AfricanGrey-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/02/AfricanGrey-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\02\AfricanGrey-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/02/The-Fact-about-baby-African-grey-parrot-that-no-one-is-suggesting-300x196.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\02\The-Fact-about-baby-African-grey-parrot-that-no-one-is-suggesting-300x196.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/02/The-Fact-about-baby-African-grey-parrot-that-no-one-is-suggesting-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\02\The-Fact-about-baby-African-grey-parrot-that-no-one-is-suggesting-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/01/Congo-Grey-Parrot-No-Further-a-Mystery-300x169.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\01\Congo-Grey-Parrot-No-Further-a-Mystery-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/01/Congo-Grey-Parrot-No-Further-a-Mystery-768x432.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\01\Congo-Grey-Parrot-No-Further-a-Mystery-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/wp-content/uploads/2020/01/Congo-Grey-Parrot-No-Further-a-Mystery-1x1.jpg
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-content\uploads\2020\01\Congo-Grey-Parrot-No-Further-a-Mystery-1x1.jpg
+Content Type: image/jpeg
+
+Uri: https://africangreyparrotfarm.com/best-strategy-to-use-for-baby-african-grey-parrots-for-sale/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\best-strategy-to-use-for-baby-african-grey-parrots-for-sale\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/460
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\460.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fbest-strategy-to-use-for-baby-african-grey-parrots-for-sale%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fbest-strategy-to-use-for-baby-african-grey-parrots-for-sale%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/wp-includes/js/comment-reply.min.js?ver=5.8
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://africangreyparrotfarm.com/category/blog/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\category\blog\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\categories\1.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/category/blog/page/2/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\category\blog\page\2\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/not-known-facts-about-african-grey-parrot-for-adoption/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\not-known-facts-about-african-grey-parrot-for-adoption\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/456
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\456.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fnot-known-facts-about-african-grey-parrot-for-adoption%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fnot-known-facts-about-african-grey-parrot-for-adoption%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey-parrot/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey-parrot\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey-parrot-for-adoption/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey-parrot-for-adoption\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/the-basic-principles-of-african-parrot/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\the-basic-principles-of-african-parrot\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/454
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\454.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fthe-basic-principles-of-african-parrot%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fthe-basic-principles-of-african-parrot%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/grey-parrot-egg-an-overview/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\grey-parrot-egg-an-overview\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/447
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\447.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fgrey-parrot-egg-an-overview%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fgrey-parrot-egg-an-overview%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey-parrot-eggs/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey-parrot-eggs\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey-parrots/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey-parrots\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/grey-parrot-eggs/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\grey-parrot-eggs\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/grey-parrots/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\grey-parrots\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/congo-african-grey-parrot-secrets/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\congo-african-grey-parrot-secrets\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/443
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\443.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fcongo-african-grey-parrot-secrets%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fcongo-african-grey-parrot-secrets%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/tag/congo-african-grey/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\congo-african-grey\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/congo-grey-parrots-for-sale/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\congo-grey-parrots-for-sale\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/congo-grey-parrots/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\congo-grey-parrots\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/440
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\440.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fcongo-grey-parrots%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fcongo-grey-parrots%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/congo-grey-parrot/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\congo-grey-parrot\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/congo-grey-parrots/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\congo-grey-parrots\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/grey-parrot/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\grey-parrot\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/what-is-the-african-grey/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\what-is-the-african-grey\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/433
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\433.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fwhat-is-the-african-grey%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fwhat-is-the-african-grey%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey-parrot-for-sale/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey-parrot-for-sale\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/african-greys/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-greys\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/5-essential-elements-for-grey-parrot/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\5-essential-elements-for-grey-parrot\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/428
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\428.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2F5-essential-elements-for-grey-parrot%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2F5-essential-elements-for-grey-parrot%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/detailed-notes-on-grey-parrot-eggs/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\detailed-notes-on-grey-parrot-eggs\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/425
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\425.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fdetailed-notes-on-grey-parrot-eggs%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fdetailed-notes-on-grey-parrot-eggs%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/african-grey-parrots-an-overview/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\african-grey-parrots-an-overview\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/419
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\419.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fafrican-grey-parrots-an-overview%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fafrican-grey-parrots-an-overview%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/examine-this-report-on-african-grey-parrots-for-sale/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\examine-this-report-on-african-grey-parrots-for-sale\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/395
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\395.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fexamine-this-report-on-african-grey-parrots-for-sale%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fexamine-this-report-on-african-grey-parrots-for-sale%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-17.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/tag/baby-african-grey-parrot-for-sale/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\baby-african-grey-parrot-for-sale\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/best-african-grey-parrot-online/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\best-african-grey-parrot-online\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/buy-african-grey-parrot-eggs-online/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\buy-african-grey-parrot-eggs-online\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/buy-african-grey-parrot-online/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\buy-african-grey-parrot-online\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/cheap-african-grey-parrots-for-sale-near-me/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\cheap-african-grey-parrots-for-sale-near-me\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/free-african-grey-parrot/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\free-african-grey-parrot\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/male-and-female-african-grey-parrots-available-for-sale/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\male-and-female-african-grey-parrots-available-for-sale\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/parrots-for-sale/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\parrots-for-sale\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/rumored-buzz-on-male-and-female-african-grey-parrots/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\rumored-buzz-on-male-and-female-african-grey-parrots\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/377
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\377.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Frumored-buzz-on-male-and-female-african-grey-parrots%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-18.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Frumored-buzz-on-male-and-female-african-grey-parrots%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-18.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey-parrot-price/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey-parrot-price\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/hand-fed-baby-african-grey-parrots-for-sale/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\hand-fed-baby-african-grey-parrots-for-sale\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/well-trained-african-grey-parrot-for-sale/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\well-trained-african-grey-parrot-for-sale\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/tag/wholesale-african-grey-parrot/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\wholesale-african-grey-parrot\index.htm
+Content Type: text/html
+
+Uri: https://africangreyparrotfarm.com/the-fact-about-baby-african-grey-parrot-that-no-one-is-suggesting/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\the-fact-about-baby-african-grey-parrot-that-no-one-is-suggesting\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/364
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\364.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fthe-fact-about-baby-african-grey-parrot-that-no-one-is-suggesting%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-19.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fthe-fact-about-baby-african-grey-parrot-that-no-one-is-suggesting%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-19.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/congo-grey-parrot-no-further-a-mystery/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\congo-grey-parrot-no-further-a-mystery\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/posts/351
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\posts\351.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fcongo-grey-parrot-no-further-a-mystery%2F
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-20.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fafricangreyparrotfarm.com%2Fcongo-grey-parrot-no-further-a-mystery%2F&format=xml
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\oembed\1.0\embed-20.xml
+Content Type: text/xml
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey-parrot/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey-parrot\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/21
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\21.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey-parrot-for-adoption/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey-parrot-for-adoption\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/14
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\14.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey-parrot-eggs/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey-parrot-eggs\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/32
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\32.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey-parrots/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey-parrots\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/25
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\25.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/grey-parrot-eggs/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\grey-parrot-eggs\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/31
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\31.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/grey-parrots/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\grey-parrots\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/24
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\24.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/congo-african-grey/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\congo-african-grey\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/30
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\30.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/congo-grey-parrots-for-sale/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\congo-grey-parrots-for-sale\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/13
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\13.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/26
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\26.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/congo-grey-parrot/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\congo-grey-parrot\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/28
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\28.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/congo-grey-parrots/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\congo-grey-parrots\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/27
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\27.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/grey-parrot/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\grey-parrot\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/29
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\29.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey-parrot-for-sale/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey-parrot-for-sale\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/12
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\12.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/african-greys/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-greys\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/22
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\22.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/baby-african-grey-parrot-for-sale/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\baby-african-grey-parrot-for-sale\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/15
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\15.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/best-african-grey-parrot-online/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\best-african-grey-parrot-online\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/7
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\7.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/buy-african-grey-parrot-eggs-online/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\buy-african-grey-parrot-eggs-online\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/16
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\16.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/buy-african-grey-parrot-online/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\buy-african-grey-parrot-online\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/11
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\11.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/cheap-african-grey-parrots-for-sale-near-me/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\cheap-african-grey-parrots-for-sale-near-me\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/19
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\19.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/free-african-grey-parrot/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\free-african-grey-parrot\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/17
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\17.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/male-and-female-african-grey-parrots-available-for-sale/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\male-and-female-african-grey-parrots-available-for-sale\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/6
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\6.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/parrots-for-sale/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\parrots-for-sale\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/18
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\18.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/african-grey-parrot-price/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\african-grey-parrot-price\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/10
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\10.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/hand-fed-baby-african-grey-parrots-for-sale/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\hand-fed-baby-african-grey-parrots-for-sale\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/20
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\20.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/well-trained-african-grey-parrot-for-sale/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\well-trained-african-grey-parrot-for-sale\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/8
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\8.json
+Content Type: application/json
+
+Uri: https://africangreyparrotfarm.com/tag/wholesale-african-grey-parrot/feed/
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\tag\wholesale-african-grey-parrot\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://africangreyparrotfarm.com/wp-json/wp/v2/tags/9
+File Name: C:\Downloaded Web Sites\africangreyparrotfarm.com\wp-json\wp\v2\tags\9.json
+Content Type: application/json
+
